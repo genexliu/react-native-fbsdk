@@ -1,0 +1,19 @@
+{
+  "name": "react-native-fbsdk",
+  "version": "1.0.0",
+  "description": "React Native FBSDK is a wrapper around the iOS Facebook SDK, allowing for Facebook integration in [React Native](https://facebook.github.io/react-native/) apps.  Access to native components, from login to sharing, is provided entirely through documented JavaScript modules so you never have to call a single native function directly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genexliu/react-native-fbsdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genexliu/react-native-fbsdk/issues"
+  },
+  "homepage": "https://github.com/genexliu/react-native-fbsdk#readme"
+}
